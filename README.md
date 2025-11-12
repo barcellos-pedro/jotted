@@ -1,4 +1,4 @@
-# Jotted
+# Jotted 🖊️
 
 > tldr: This project is just to exercise Annotation usage and implementation
 
